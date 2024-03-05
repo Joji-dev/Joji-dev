@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Developer/Automation expert currently working on multiple professional projects concerning eCommerce, digital transactions, digital distribution of unique tickets/vouchers/discount codes/... for local companies, ...<br>
+Developer/Automation expert currently working on multiple professional projects concerning eCommerce, digital transactions, digital distribution of unique tickets/vouchers/discount codes/... for 750+ companies, ...<br>
 🔭 Currently looking for projects to collaborate on, open source projects to contribute to or anything of the sort.
 
 Stack:<br>
