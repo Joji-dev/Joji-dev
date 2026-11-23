@@ -1,6 +1,6 @@
 ### Hi there
 
-Developer & automation/integration engineer from Belgium. My work spans application code and the infrastructure underneath: terminal operating systems, web platforms, REST services, databases, EDI and API integrations. Alongside that I run eCommerce and digital transaction projects: digital distribution of unique tickets, vouchers, discount codes and similar for 750+ companies.
+Developer, IT business analyst & automation/integration engineer from Belgium. My work spans business analysis, application code and the infrastructure underneath: terminal operating systems, web platforms, REST services, databases, EDI and API integrations. Alongside that I run eCommerce and digital transaction projects: digital distribution of unique tickets, vouchers, discount codes and similar for 750+ companies.
 
 Currently looking for projects to collaborate on and open source projects to contribute to.
 
